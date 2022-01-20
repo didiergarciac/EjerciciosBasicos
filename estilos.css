@@ -1,0 +1,48 @@
+.body_page {
+    background: rgb(172, 175, 175);
+    width: 20%;
+    margin: 0 auto;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: left;
+    margin-top:50px;
+}
+
+#color_lineas{
+ margin: 5px;
+}
+
+p {
+    color: rgba(18, 31, 61);
+    margin: 10px;
+    text-align: left;
+}
+h1 {
+    color: orange;
+}
+
+img {
+    align-content: center;
+    margin-left: -90px;
+}
+
+.formatoCanvas{
+    background: white;
+}
+
+button{
+    background:rgb(146, 201, 61);
+    color:black;
+    width: 300px;
+    height: 30px;
+    margin: auto;
+    padding: 0;
+    display:inline-flex
+    line-height: 80px;
+    text-align: center;
+    font-size:large;
+    border-radius: 25px;
+}
+
